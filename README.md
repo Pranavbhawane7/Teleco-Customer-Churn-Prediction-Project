@@ -50,7 +50,9 @@ Tenure analysis
 Payment method analysis
 Internet service analysis
 Service usage patterns
+
 Key Insights
+
 ✅ Customers with month-to-month contracts showed higher churn rates.
 
 ✅ Customers with shorter tenure were more likely to leave.
