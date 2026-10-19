@@ -62,6 +62,12 @@ Key Insights
 ✅ Electronic check users demonstrated higher churn tendencies compared to other payment methods.
 
 ---
+Some Observations - 
+Churn and No Churn Distribution- 
+
+<img width="781" height="580" alt="image" src="https://github.com/user-attachments/assets/79c09ca6-7722-4736-b3c9-aa743ea6f386" />
+
+---
 
 🛠 Data Preprocessing
 
