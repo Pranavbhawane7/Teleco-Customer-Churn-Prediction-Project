@@ -3,6 +3,7 @@
 ---
 
 📌 Project Overview
+
 Customer churn is a major challenge for telecommunication companies, as customer retention directly impacts business growth and profitability. This project develops a Machine Learning model to predict whether a customer is likely to churn based on customer demographics, account information, subscribed services, and billing details.
 
 The goal is to help businesses identify at-risk customers and implement targeted retention strategies before customers leave the service.
@@ -10,6 +11,7 @@ The goal is to help businesses identify at-risk customers and implement targeted
 ---
 
 🎯 Business Objective
+
 The primary objectives of this project are:
 
 Predict customer churn using historical customer data.
@@ -20,6 +22,7 @@ Assist telecom companies in improving customer retention and reducing revenue lo
 ---
 
 📂 Dataset Information
+
 The dataset contains information about telecom customers, including:
 
 Customer demographic details
@@ -36,6 +39,7 @@ Churn	Indicates whether a customer left the company (1) or remained (0)
 ---
 
 🔍 Exploratory Data Analysis (EDA)
+
 Exploratory Data Analysis was performed to understand customer behavior and discover factors contributing to churn.
 
 Analysis Performed
@@ -58,6 +62,7 @@ Key Insights
 ---
 
 🛠 Data Preprocessing
+
 Data Cleaning
 Checked for missing values
 Removed inconsistencies
@@ -81,6 +86,7 @@ SMOTE (Synthetic Minority Oversampling Technique) was applied to the training da
 ---
 
 🤖 Machine Learning Models Used
+
 Logistic Regression
 A baseline classification algorithm used to establish initial model performance.
 
@@ -105,11 +111,13 @@ Models were evaluated using the following performance metrics:
 ---
 
 🏆 Best Performing Model
+
 After evaluating multiple Machine Learning algorithms, XGBoost achieved the highest predictive performance and was selected as the final model.
 
 The model demonstrated strong capability in identifying customers likely to churn while maintaining a balanced trade-off between precision and recall.
 
 ⚙️ Machine Learning Workflow
+
 Data Collection
         │
         ▼
@@ -145,6 +153,7 @@ Best Model Selection
 ---
 
 🛠️ Technologies Used
+
 * Programming Language
 * Python
 * Libraries
@@ -159,6 +168,7 @@ Best Model Selection
 ---
 
 📁 Project Structure
+
 Teleco-Customer-Churn-Prediction-Project/
 │
 ├── Customer_Churn.ipynb
@@ -168,6 +178,7 @@ Teleco-Customer-Churn-Prediction-Project/
 ---
 
 🚀 Future Enhancements
+
 * Hyperparameter tuning using GridSearchCV
 * Feature importance analysis
 * Model deployment using Streamlit
