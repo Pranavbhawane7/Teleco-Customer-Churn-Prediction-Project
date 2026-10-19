@@ -1,8 +1,13 @@
 ## 📊 Telco Customer Churn Prediction
+
+---
+
 📌 Project Overview
 Customer churn is a major challenge for telecommunication companies, as customer retention directly impacts business growth and profitability. This project develops a Machine Learning model to predict whether a customer is likely to churn based on customer demographics, account information, subscribed services, and billing details.
 
 The goal is to help businesses identify at-risk customers and implement targeted retention strategies before customers leave the service.
+
+---
 
 🎯 Business Objective
 The primary objectives of this project are:
@@ -11,6 +16,9 @@ Predict customer churn using historical customer data.
 Identify the key factors influencing churn behavior.
 Compare multiple Machine Learning algorithms.
 Assist telecom companies in improving customer retention and reducing revenue loss.
+
+---
+
 📂 Dataset Information
 The dataset contains information about telecom customers, including:
 
@@ -24,6 +32,9 @@ Payment methods
 Target Variable
 Variable	Description
 Churn	Indicates whether a customer left the company (1) or remained (0)
+
+---
+
 🔍 Exploratory Data Analysis (EDA)
 Exploratory Data Analysis was performed to understand customer behavior and discover factors contributing to churn.
 
@@ -43,6 +54,8 @@ Key Insights
 ✅ Higher monthly charges were associated with increased churn probability.
 
 ✅ Electronic check users demonstrated higher churn tendencies compared to other payment methods.
+
+---
 
 🛠 Data Preprocessing
 Data Cleaning
@@ -65,6 +78,8 @@ The dataset was split into training and testing datasets for model evaluation.
 Handling Class Imbalance
 SMOTE (Synthetic Minority Oversampling Technique) was applied to the training dataset to balance the target classes.
 
+---
+
 🤖 Machine Learning Models Used
 Logistic Regression
 A baseline classification algorithm used to establish initial model performance.
@@ -75,6 +90,8 @@ An ensemble learning algorithm that combines multiple decision trees to improve 
 XGBoost Classifier
 A gradient boosting algorithm capable of capturing complex relationships within customer data.
 
+---
+
 📈 Model Evaluation
 Models were evaluated using the following performance metrics:
 
@@ -84,6 +101,9 @@ Recall
 F1 Score
 ROC-AUC Score
 Confusion Matrix
+
+---
+
 🏆 Best Performing Model
 After evaluating multiple Machine Learning algorithms, XGBoost achieved the highest predictive performance and was selected as the final model.
 
@@ -121,6 +141,9 @@ Model Evaluation
         │
         ▼
 Best Model Selection
+
+---
+
 🛠️ Technologies Used
 Programming Language
 Python
@@ -132,6 +155,9 @@ Seaborn
 Scikit-Learn
 Imbalanced-Learn (SMOTE)
 XGBoost
+
+---
+
 📁 Project Structure
 Teleco-Customer-Churn-Prediction-Project/
 │
