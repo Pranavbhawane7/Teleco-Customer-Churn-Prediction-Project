@@ -88,13 +88,13 @@ SMOTE (Synthetic Minority Oversampling Technique) was applied to the training da
 🤖 Machine Learning Models Used
 
 Logistic Regression
-A baseline classification algorithm used to establish initial model performance.
+- A baseline classification algorithm used to establish initial model performance.
 
 Random Forest Classifier
-An ensemble learning algorithm that combines multiple decision trees to improve predictive accuracy.
+- An ensemble learning algorithm that combines multiple decision trees to improve predictive accuracy.
 
 XGBoost Classifier
-A gradient boosting algorithm capable of capturing complex relationships within customer data.
+- A gradient boosting algorithm capable of capturing complex relationships within customer data.
 
 ---
 
