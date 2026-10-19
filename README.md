@@ -71,6 +71,9 @@ Tenure vs Churn
 
 <img width="752" height="562" alt="image" src="https://github.com/user-attachments/assets/76b051f6-9858-444b-b2bc-d2eff98907ef" />
 
+SHAP Analysis
+
+<img width="767" height="741" alt="image" src="https://github.com/user-attachments/assets/630c65f8-6db7-432e-b3ca-628702649615" />
 
 ---
 
@@ -177,7 +180,7 @@ Best Model Selection
 * Scikit-Learn
 * Imbalanced-Learn (SMOTE)
 * XGBoost
-
+* SHAP
 ---
 
 📁 Project Structure
