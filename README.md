@@ -33,8 +33,6 @@ Contract details
 Billing information
 Payment methods
 Target Variable
-Variable	
-Description
 
 Churn- Indicates whether a customer left the company (1) or remained (0)
 
