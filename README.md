@@ -67,6 +67,11 @@ Churn and No Churn Distribution-
 
 <img width="781" height="580" alt="image" src="https://github.com/user-attachments/assets/79c09ca6-7722-4736-b3c9-aa743ea6f386" />
 
+Tenure vs Churn
+
+<img width="752" height="562" alt="image" src="https://github.com/user-attachments/assets/76b051f6-9858-444b-b2bc-d2eff98907ef" />
+
+
 ---
 
 🛠 Data Preprocessing
