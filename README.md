@@ -1,4 +1,4 @@
-📊 Telco Customer Churn Prediction
+### 📊 Telco Customer Churn Prediction
 
 ---
 
@@ -220,3 +220,4 @@ Model Deployment using Flask/FastAPI
 Real-Time Churn Prediction
 Customer Retention Recommendation Engine
 Interactive Dashboard Development
+](https://github.com/Pranavbhawane7/Teleco-Customer-Churn-Prediction-Project/blob/main/Customer_Churn.ipynb)
