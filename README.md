@@ -95,12 +95,12 @@ A gradient boosting algorithm capable of capturing complex relationships within 
 📈 Model Evaluation
 Models were evaluated using the following performance metrics:
 
-Accuracy Score
-Precision
-Recall
-F1 Score
-ROC-AUC Score
-Confusion Matrix
+* Accuracy Score
+* Precision
+* Recall
+* F1 Score
+* ROC-AUC Score
+* Confusion Matrix
 
 ---
 
@@ -145,16 +145,16 @@ Best Model Selection
 ---
 
 🛠️ Technologies Used
-Programming Language
-Python
-Libraries
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-Learn
-Imbalanced-Learn (SMOTE)
-XGBoost
+* Programming Language
+* Python
+* Libraries
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-Learn
+* Imbalanced-Learn (SMOTE)
+* XGBoost
 
 ---
 
@@ -164,9 +164,12 @@ Teleco-Customer-Churn-Prediction-Project/
 ├── Customer_Churn.ipynb
 ├── README.md
 └── Dataset
+
+---
+
 🚀 Future Enhancements
-Hyperparameter tuning using GridSearchCV
-Feature importance analysis
-Model deployment using Streamlit
-Churn prediction web application
-Customer retention recommendation system
+* Hyperparameter tuning using GridSearchCV
+* Feature importance analysis
+* Model deployment using Streamlit
+* Churn prediction web application
+* Customer retention recommendation system
