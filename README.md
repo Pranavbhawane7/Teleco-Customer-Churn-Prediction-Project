@@ -4,7 +4,7 @@
 
 📌 Project Overview
 
-Customer churn is a major challenge for telecommunication companies, as customer retention directly impacts business growth and profitability. This project develops a Machine Learning model to predict whether a customer is likely to churn based on customer demographics, 
+Customer churn is a major challenge for telecommunication companies, as customer retention directly impacts business growth and profitability. This project develops a Machine Learning model to predict whether a customer is likely to churn based on customer demographics, account information, subscribed services, and billing details.
 
 The goal is to help businesses identify at-risk customers and implement targeted retention strategies before customers leave the service.
 
