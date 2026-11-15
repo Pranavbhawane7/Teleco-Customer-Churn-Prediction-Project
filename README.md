@@ -2,7 +2,7 @@
 
 ---
 
-📌 Project Overview
+### 📌 Project Overview
 
 Customer churn is a major challenge for telecommunication companies, as customer retention directly impacts business growth and profitability. This project develops a Machine Learning model to predict whether a customer is likely to churn based on customer demographics, account information, subscribed services, and billing details.
 
@@ -10,7 +10,7 @@ The goal is to help businesses identify at-risk customers and implement targeted
 
 ---
 
-🎯 Business Objective
+### 🎯 Business Objective
 
 The primary objectives of this project are:
 
@@ -21,7 +21,7 @@ Assist telecom companies in improving customer retention and reducing revenue lo
 
 ---
 
-📂 Dataset Information
+### 📂 Dataset Information
 
 The dataset contains information about telecom customers, including:
 
@@ -38,7 +38,7 @@ Churn- Indicates whether a customer left the company (1) or remained (0)
 
 ---
 
-🔍 Exploratory Data Analysis (EDA)
+### 🔍 Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis was performed to understand customer behavior and discover factors contributing to churn.
 
@@ -62,7 +62,7 @@ Key Insights
 ✅ Electronic check users demonstrated higher churn tendencies compared to other payment methods.
 
 ---
-Some Observations - 
+### 📖Some Observations - 
 Churn and No Churn Distribution- 
 
 <img width="781" height="580" alt="image" src="https://github.com/user-attachments/assets/79c09ca6-7722-4736-b3c9-aa743ea6f386" />
@@ -77,7 +77,7 @@ SHAP Analysis
 
 ---
 
-🛠 Data Preprocessing
+### 🛠 Data Preprocessing
 
 Data Cleaning
 Checked for missing values
@@ -101,7 +101,7 @@ SMOTE (Synthetic Minority Oversampling Technique) was applied to the training da
 
 ---
 
-🤖 Machine Learning Models Used
+### 🤖 Machine Learning Models Used
 
 Logistic Regression
 - A baseline classification algorithm used to establish initial model performance.
@@ -114,7 +114,7 @@ XGBoost Classifier
 
 ---
 
-📈 Model Evaluation
+### 📈 Model Evaluation
 Models were evaluated using the following performance metrics:
 
 * Accuracy Score
@@ -126,13 +126,13 @@ Models were evaluated using the following performance metrics:
 
 ---
 
-🏆 Best Performing Model
+### 🏆 Best Performing Model
 
 After evaluating multiple Machine Learning algorithms, XGBoost achieved the highest predictive performance and was selected as the final model.
 
 The model demonstrated strong capability in identifying customers likely to churn while maintaining a balanced trade-off between precision and recall.
 
-⚙️ Machine Learning Workflow
+### ⚙️ Machine Learning Workflow
 
 Data Collection
         │
@@ -168,7 +168,7 @@ Best Model Selection
 
 ---
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 * Programming Language
 * Python
@@ -183,7 +183,7 @@ Best Model Selection
 * SHAP
 ---
 
-📁 Project Structure
+### 📁 Project Structure
 
 Teleco-Customer-Churn-Prediction-Project/
 │
@@ -193,7 +193,7 @@ Teleco-Customer-Churn-Prediction-Project/
 
 ---
 
-🚀 Future Enhancements
+### 🚀 Future Enhancements
 
 * Hyperparameter tuning using GridSearchCV
 * Feature importance analysis
