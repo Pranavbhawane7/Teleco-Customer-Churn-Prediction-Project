@@ -126,6 +126,12 @@ Models were evaluated using the following performance metrics:
 
 ---
 
+### Observations 
+
+The SHAP method told us that Contract and Tenure are the major drivers of the predictions.
+
+---
+
 ### 🏆 Best Performing Model
 
 After evaluating multiple Machine Learning algorithms, XGBoost achieved the highest predictive performance and was selected as the final model.
