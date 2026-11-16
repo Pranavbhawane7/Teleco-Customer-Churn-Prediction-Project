@@ -128,7 +128,7 @@ Models were evaluated using the following performance metrics:
 
 ### Observations 
 
-The SHAP method told us that Contract and Tenure are the major drivers of the predictions.
+The SHAP method indicated that Contract and Tenure are the major drivers of the predictions.
 
 ---
 
