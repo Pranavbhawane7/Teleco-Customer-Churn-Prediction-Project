@@ -21,7 +21,7 @@ Assist telecom companies in improving customer retention and reducing revenue lo
 
 ---
 
-### 📂 Dataset Information
+### Dataset Information
 
 The dataset contains information about telecom customers, including:
 
