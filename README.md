@@ -189,7 +189,7 @@ Best Model Selection
 * SHAP
 ---
 
-### 📁 Project Structure
+### Project Structure
 
 Teleco-Customer-Churn-Prediction-Project/
 │
