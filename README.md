@@ -199,7 +199,7 @@ Teleco-Customer-Churn-Prediction-Project/
 
 ---
 
-### 🚀 Future Enhancements
+### Future Enhancements
 
 * Hyperparameter tuning using GridSearchCV
 * Feature importance analysis
