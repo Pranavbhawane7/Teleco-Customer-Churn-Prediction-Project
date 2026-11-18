@@ -114,7 +114,7 @@ XGBoost Classifier
 
 ---
 
-### 📈 Model Evaluation
+### Model Evaluation
 Models were evaluated using the following performance metrics:
 
 * Accuracy Score
