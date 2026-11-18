@@ -53,13 +53,13 @@ Service usage patterns
 
 Key Insights
 
-✅ Customers with month-to-month contracts showed higher churn rates.
+* Customers with month-to-month contracts showed higher churn rates.
 
-✅ Customers with shorter tenure were more likely to leave.
+* Customers with shorter tenure were more likely to leave.
 
-✅ Higher monthly charges were associated with increased churn probability.
+* Higher monthly charges were associated with increased churn probability.
 
-✅ Electronic check users demonstrated higher churn tendencies compared to other payment methods.
+* Electronic check users demonstrated higher churn tendencies compared to other payment methods.
 
 ---
 ### 📖 Some Observations - 
