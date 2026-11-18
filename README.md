@@ -10,7 +10,7 @@ The goal is to help businesses identify at-risk customers and implement targeted
 
 ---
 
-### 🎯 Business Objective
+### Business Objective
 
 The primary objectives of this project are:
 
