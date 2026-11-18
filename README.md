@@ -138,7 +138,7 @@ After evaluating multiple Machine Learning algorithms, XGBoost achieved the high
 
 The model demonstrated strong capability in identifying customers likely to churn while maintaining a balanced trade-off between precision and recall.
 
-### ⚙️ Machine Learning Workflow
+### Machine Learning Workflow
 
 Data Collection
         │
