@@ -101,7 +101,7 @@ SMOTE (Synthetic Minority Oversampling Technique) was applied to the training da
 
 ---
 
-### 🤖 Machine Learning Models Used
+### Machine Learning Models Used
 
 Logistic Regression
 - A baseline classification algorithm used to establish initial model performance.
