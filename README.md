@@ -174,7 +174,7 @@ Best Model Selection
 
 ---
 
-### 🛠️ Technologies Used
+### Technologies Used
 
 * Programming Language
 * Python
