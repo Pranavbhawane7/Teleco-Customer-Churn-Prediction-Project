@@ -132,7 +132,7 @@ The SHAP method indicated that Contract and Tenure are the major drivers of the 
 
 ---
 
-### 🏆 Best Performing Model
+### Best Performing Model
 
 After evaluating multiple Machine Learning algorithms, XGBoost achieved the highest predictive performance and was selected as the final model.
 
