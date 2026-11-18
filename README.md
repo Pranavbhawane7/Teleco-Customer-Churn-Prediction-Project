@@ -38,7 +38,7 @@ Churn- Indicates whether a customer left the company (1) or remained (0)
 
 ---
 
-### 🔍 Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis was performed to understand customer behavior and discover factors contributing to churn.
 
