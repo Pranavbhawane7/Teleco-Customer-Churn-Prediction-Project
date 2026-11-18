@@ -77,7 +77,7 @@ SHAP Analysis
 
 ---
 
-### 🛠 Data Preprocessing
+### Data Preprocessing
 
 Data Cleaning
 Checked for missing values
